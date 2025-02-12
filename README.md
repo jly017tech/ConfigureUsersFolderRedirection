@@ -1,11 +1,8 @@
-# ConfigureUsersFolderRedirection
-
+<h1>Configuring a Redirection Folder</h1>
 
 <p>
-
-Redirect the locaitons of many folders on desktop, documents, downloads pictures and appdate on the file server.
-The users from different wouldn't notice whether a powerpoint presentation file or a financial folder will store on the shared folder created. 
-  
+I setup syncing and configuring to a particular folder called Redirection folder where the Design department (name of the group) is only group access and store their work projects.
+None of other departments will not access to their folder. I demonstrated by setting up in the group policy management to create GPO object and Server manager to create a SMB folder.
 </p>
 
 ![Screenshot from 2025-02-10 23-56-06](https://github.com/user-attachments/assets/f44cf1a7-ea78-44c0-a7d0-2e421874aef4)
