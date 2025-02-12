@@ -1,6 +1,5 @@
 # ConfigureUsersFolderRedirection
 
-<p>The group is I use is fiction and use for demonstrating my technical skill for the IT helpdesk I'm applying for.</p>
 
 <p>
 
